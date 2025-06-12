@@ -76,10 +76,10 @@ def revisar_y_alertar():
                 enviar_alerta(
                     fila["correo"],
                     fila["responsable"],
-                    fila["# de tarea"],
+                    fila["# de radicado"],
                     fv.date()
                 )
-                enviados.append(f"Tarea #{fila['# de tarea']} a {fila['responsable']}")
+                enviados.append(f"Tarea #{fila['# de radicado']} a {fila['responsable']}")
 
     return enviados
 

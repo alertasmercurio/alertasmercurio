@@ -17,7 +17,7 @@ SHEET_URL = (
     "2PACX-1vQyl_p631ZurF6GoT3zP1Ir1-46x5kqDFKRMBnqFOfoHcvyaEJul4alywGjfzkWkfspOYLERsd-Cxis/"
     "pub?output=csv&gid=0"
 )
-EMAIL_SENDER = "juanrestrepo8692@gmail.com"
+EMAIL_SENDER = "alertasmercurio@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")

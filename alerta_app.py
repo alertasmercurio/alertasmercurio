@@ -14,8 +14,8 @@ load_dotenv()
 # --- CONFIGURACIÓN ---
 SHEET_URL = (
     "https://docs.google.com/spreadsheets/d/e/"
-    "2PACX-1vQyl_p631ZurF6GoT3zP1Ir1-46x5kqDFKRMBnqFOfoHcvyaEJul4alywGjfzkWkfspOYLERsd-Cxis/"
-    "pub?output=csv&gid=0"
+    "2PACX-1vQajIKV3oEshEmH14FZiD2jcweA6pak-HMLKtphx-ltFSFxHyrrXkBzp0mOvHosXIDPnA-86reUSJrC/"
+    "pubhtml"
 )
 EMAIL_SENDER = "alertasmercurio@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
